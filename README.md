@@ -13,14 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Header](Header.png)
-<h1 align="center">Hi there👋, I'm Ade</h1>
-<h3 align="center">A linguist who falls in love with natural and programming languages (R and Python)</h3>
+## 👨🏻‍💻 Language Enthusiast | Data Science & Linguistics Explorer
 
-- 🌱 I’m currently learning **Data Science and Computational Linguistics**
-
-- 📝 I write articles on [Medium](https://medium.com/@lingostat)
-
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/adelia-januarto/)
+Fascinated by the beauty of natural and programming languages, with a focus on R and Python. Currently on a journey to learning Data Science and Computational Linguistics. 📊
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
