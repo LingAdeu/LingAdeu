@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Header](Header.png)
 <h1 align="center">Hi there👋, I'm Ade</h1>
 <h3 align="center">A linguist who falls in love with natural and programming languages (R and Python)</h3>
 
