@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Header](Header.png)
-## 👨🏻‍💻 Language Enthusiast | Data Science & Linguistics Explorer
 
-Fascinated by the beauty of natural and programming languages, with a focus on R and Python. Currently on a journey to learning Data Science and Computational Linguistics. 📊
+## 👨🏻‍💻 Linguistics and Data Analytics Enthusiast
+
+Fascinated by the beauty of natural and programming languages, with a focus on <span style="color:#447cc3">R</span> and <span style="color:#447cc3">Python</span>. Currently on a journey to learning Data Science and Linguistics. 📊
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
