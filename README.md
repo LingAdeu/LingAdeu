@@ -3,7 +3,7 @@
 
 ## About
 
-Fascinated by the beauty of natural and programming languages, with a focus on <b>R</b> and <b>Python</b>. Currently on a journey to learning Data Science and Linguistics.
+Fascinated by the beauty of natural and programming languages, with a focus on <b>R</b> and <b>Python</b>. Currently learning Data Science and Linguistics.
 
 <div align="left">
   <h3 align="left">My tools:</h3>
