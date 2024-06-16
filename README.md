@@ -13,7 +13,16 @@ Fascinated by the beauty of natural and programming languages, with a focus on <
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height="40" />
+  <img width="12" />
+  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" height="40" alt="markdown logo"/>
+  <img width="12" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" alt="markdown logo"/>
+  <img width="12" /> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/2023_Obsidian_logo.svg" height="40" alt="markdown logo"/>
+  <img width="12" /> 
 </div>
 
 <div align="left">
