@@ -1,9 +1,9 @@
 ![Header](NewHeader.png)
 
 ## About
-Hi, I am a junior linguist with a current interest in computational stylometry. As this area of interest requires me to not only deeply understand linguistics and statistics but also computational methods, data science and machine learning are tools I'm using to explore my area of interest and being applied in a business context for demonstrating some transferrable skills.
+Hi, I am a junior linguist with a current interest in computational stylometry. As this area of interest requires a deep understanding of linguistics, statistics, and computational methods, data science and machine learning are tools I'm using to explore my area of interest. These two fields are applied in a business context for demonstrating some transferrable skills.
 
-Currently, I'm learning how to extract important linguistic features from text data and how to experiment machine learning models for text classification; and also exploring how to apply statistical techniques for authorship attribution. Other than these, I am working on some data science projects in business context to get myself familiarized with making sense of numbers.
+Currently, I'm learning how to extract important linguistic features from text data and how to experiment machine learning models for text classification. I am also exploring how to apply statistical techniques for authorship attribution. In addition to these, I am working on some data science projects in business context to get myself familiarized with making sense of numbers.
 
 <div align="left">
   <h3 align="left">My tools</h3>
