@@ -29,7 +29,7 @@ Currently, I'm learning how to extract important linguistic features from text d
 **Natural Language Processing**
 
 | Project Name | Description |
-| --- | --- | --- |
+| --- | --- |
 | Regular Expression for Rule-Based Content Moderation ([URL](https://github.com/LingAdeu/regex-for-content-moderation.git)) | This project addresses taboo expressions in company communications by detecting and censoring specific elements of messages (e.g., "Shit, I forgot!" → "****, I forgot!"). A rule-based approach using regular expressions was chosen over machine learning for its efficient implementation, high explainability to stakeholders, and reliable detection of inappropriate content through rule matching. |
 </details>
 
