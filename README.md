@@ -5,6 +5,34 @@ Hi, I am a junior linguist with a current interest in computational stylometry. 
 
 Currently, I'm learning how to extract important linguistic features from text data and how to experiment machine learning models for text classification. I am also exploring how to apply statistical techniques for authorship attribution. In addition to these, I am working on some data science projects in business context to get myself familiarized with making sense of numbers.
 
+
+<details>
+<summary>Key Projects</summary>
+<br>
+<span style='font-weight:bold'>Predictive Modeling</span>
+
+| Type | Project Name | Description |
+| --- | --- | --- |
+| Regression | Optimizing Ride Fares: A Dynamic Pricing Model for Ride-Sharing Services ([URL](https://github.com/LingAdeu/dynamic-pricing-model.git)) | Currently, ride-sharing prices are primarily set based on ride duration, overlooking fluctuating demand and supply. This project explores a dynamic pricing model powered by machine learning to enhance profitability while keeping prices appealing to customers. By experimenting with 12 ML algorithms and two feature engineering techniques (feature selection and polynomial expansion), the project developed a model that, when tested with a simulation of 100 customers, showed that increasing the key feature—expected ride duration—by 20% through a promotional campaign could generate a net profit of $2.4K. | 
+| Classsification | Addressing Customer Churn in an E-Commerce Company ([URL](https://github.com/LingAdeu/customer-churn-prediction.git)) | This project seeks to reduce an e-commerce company's customer churn rate from 16.8% to 10%. Using diagnostic analysis and a classification model, we focused on minimizing false negatives due to their higher financial impact. After testing various techniques and algorithms, we chose XGBoost and identified tenure and cashback amount as key factors for intervention. Simulations showed that with targeted strategies, achieving the 10% churn rate is feasible. | 
+| Classsification | Development and Evaluation of a Classification Model for Spam Detection ([URL](https://github.com/LingAdeu/spam-message-prediction.git)) | This project developed a classification model to identify spam messages (1 for spam, 0 for legitimate) for a telecommunications company. F1 score was selected as the primary metric to balance false positives and false negatives. Logistic regression emerged as the best model, achieving an F1 score of 0.92 ± 0.01 across 10 folds. Additionally, the model's potential to save $23K through reduced spam impact highlights its financial and operational benefits. | 
+| Classsification | Predicting Hotel Booking Cancellations to Minimize Revenue Loss due to False Negative ([URL](https://github.com/LingAdeu/bangkok-airbnb-review-exploration.git)) | Despite an increase in reviews, about 36% (5.7 thousand) of Airbnb listings in Bangkok received none from 2012 to 2022. This project explores why some listings lack reviews and offers recommendations for Airbnb Thailand. It finds that unreviewed listings often have higher prices and longer minimum stays, which may deter bookings and reviews. In contrast, reviewed listings are typically entire homes or apartments, more centrally located, and closer to popular areas. Recommendations include adjusting prices and minimum stays for unreviewed listings, running promotions to boost reviews, and improving marketing to highlight unique features and attractions. | 
+
+<span style='font-weight:bold'>Data Analysis</span>
+
+| Type | Project Name | Description |
+| --- | --- | --- |
+| A/B Testing | Evaluating Marketing Campaign Effectiveness for New Menu Items: An A/B Testing Approach ([URL](https://github.com/LingAdeu/ab-testing-campaign-effectiveness.git)) | This project assesses which promotional campaign best boosts sales for a fast-food company's new menu items. Statistical analysis, including the Kruskal-Wallis H test and Dunn's post-hoc test, was used due to non-normal sales distributions and outliers. Results showed the first campaign achieved the highest median sales, but differences between campaigns were minor. It is recommended that the Marketing Manager reevaluate marketing strategies and target customers to improve campaign impact. | 
+| Data Analysis | Improving the Number of Review: Exploring Review Patterns in Bangkok's Airbnb Landscape ([URL](https://github.com/LingAdeu/bangkok-airbnb-review-exploration.git)) | This repository includes the code and data for developing a classification model to predict booking cancellations at a Portuguese hotel. The model aims to help hotel managers distinguish between reservations likely to be canceled (labeled as 1) and those that will not be canceled (labeled as 0). Given the high cost of false negatives, the project focuses on minimizing these errors by using the F2 score as the primary metric, which emphasizes recall to accurately identify potential cancellations. This approach enables better resource allocation, optimized inventory management, and reduced revenue loss from unexpected cancellations. | 
+| Data Analysis | Navigating Negative Feedback: Strategies for Addressing Low Ratings in American Starbucks ([URL](https://github.com/LingAdeu/starbucks-low-rating-issue.git)) | This project features an analysis of low customer satisfaction ratings for Starbucks in the US, using reviews from ConsumerAffairs. The project examines factors leading to 1-star reviews by employing data preprocessing, word frequency analysis, n-grams, and collocations to reveal common themes and patterns. The findings offer actionable recommendations to enhance customer satisfaction, with a focus on service, product quality, and cleanliness, and places particular emphasis on feedback from California. | 
+
+<span style='font-weight:bold'>Natural Language Processing</span>
+
+| Type | Project Name | Description |
+| --- | --- | --- |
+| Regular Expression | Regular Expression for Rule-Based Content Moderation ([URL](git clone https://github.com/LingAdeu/regex-for-content-moderation.git)) | This project addresses taboo expressions in company communications by detecting and censoring specific elements of messages (e.g., "Shit, I forgot!" → "****, I forgot!"). A rule-based approach using regular expressions was chosen over machine learning for its efficient implementation, high explainability to stakeholders, and reliable detection of inappropriate content through rule matching. |
+</details>
+
 <div align="left">
   <h3 align="left">My tools</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
