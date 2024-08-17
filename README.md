@@ -7,7 +7,7 @@ Currently, I'm learning how to extract important linguistic features from text d
 
 
 <details>
-<summary>Key Projects</summary>
+<summary style='color:grey'>Key Projects</summary>
 <br>
 
 **Predictive Modeling**
