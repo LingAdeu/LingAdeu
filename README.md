@@ -31,7 +31,7 @@ Currently, I'm learning how to extract important linguistic features from text d
 
 | Project Name | Description |
 | --- | --- |
-| Regular Expression for Rule-Based Content Moderation | This project addresses taboo expressions in company communications by detecting and censoring specific elements of messages (e.g., *"Shit, I forgot!"* $\rightarrow$ *"****, I forgot!"*). A rule-based approach using regular expressions was chosen over machine learning for its efficient implementation, high explainability to stakeholders, and reliable detection of inappropriate content through rule matching. ([URL](https://github.com/LingAdeu/regex-for-content-moderation.git)) |
+| Regular Expression for Rule-Based Content Moderation | This project addresses taboo expressions in computer-mediated communications by detecting and censoring specific elements of messages (e.g., *"Shit, I forgot!"* $\rightarrow$ *"\*\*\*\*, I forgot!"*). A rule-based approach using regular expressions was chosen over machine learning for its efficient implementation, high explainability to stakeholders, and reliable detection of inappropriate content through rule matching. ([URL](https://github.com/LingAdeu/regex-for-content-moderation.git)) |
 </details>
 
 <div align="left">
