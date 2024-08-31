@@ -43,8 +43,8 @@ Currently, I'm learning how to extract important linguistic features from text d
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height="40" />
-  <img width="12" />
+<!---  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height="40" />
+  <img width="12" /> --->
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" height="40" alt="markdown logo"/>
   <img width="12" /> 
 <!---  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
