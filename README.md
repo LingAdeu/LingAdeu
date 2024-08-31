@@ -49,9 +49,11 @@ Currently, I'm learning how to extract important linguistic features from text d
   <img width="12" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" alt="markdown logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" alt="msql logo"/>
   <img width="12" /> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/2023_Obsidian_logo.svg" height="40" alt="markdown logo"/>
+  <img width="12" /> 
+  <img src="https://img.icons8.com/color/48/tableau-software.png" height="40" alt="tableau logo"/>
   <img width="12" /> 
 </div>
 
