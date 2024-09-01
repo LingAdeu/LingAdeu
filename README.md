@@ -3,7 +3,7 @@
 ## About
 Hi, I am a junior linguist with a current interest in computational stylometry. As this area of interest requires a deep understanding of linguistics, statistics, and computational methods, I'm using data science and machine learning to explore my area of interest. 
 
-Currently, I'm learning how to extract important linguistic features from text data and how to experiment machine learning models for text classification. I am also exploring how to apply statistical techniques for authorship attribution. In addition to these, I am working on some data science projects in business context to get myself familiarized with making sense of numbers.
+Currently, I'm learning how to extract important linguistic features from text data and how to experiment machine learning models for text classification. I am also exploring how to apply statistical techniques for authorship attribution. In addition to these, I am working on some data science projects in business context to get myself familiar with numbers.
 
 
 <details>
