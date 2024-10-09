@@ -38,8 +38,10 @@ Currently, I'm learning how to extract important linguistic features from text d
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
-<!---  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height="40" />
-  <img width="12" /> --->
+  <!---
+  <img src="https://icon.icepanel.io/Technology/png-shadow-512/Jupyter.png" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  --->
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" height="40" alt="markdown logo"/>
   <img width="12" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" alt="msql logo"/>
@@ -50,24 +52,26 @@ Currently, I'm learning how to extract important linguistic features from text d
   <img width="12" /> 
 </div>
 
-<!--- 
+<!--
 <details>
 <summary style='color:grey'>Libraries</summary>
 <br>
-
-<img src="https://img.icons8.com/color/144/pandas.png" height="40" alt="pandas logo"  />
+  <img src="https://icon.icepanel.io/Technology/png-shadow-512/Pandas.png" height="40" alt="pandas logo" />
   <img width="12" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Numpy-svgrepo-com.svg" height="40" alt="numpy logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Numpy-svgrepo-com.svg" height="40" alt="numpy logo"  />
   <img width="12" />
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40" alt="seaborn logo" />
+  <img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" height="40" alt="matplotlib logo" />
   <img width="12" />
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40" alt="seaborn logo" />
   <img width="12" />
+  <img src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" height="40" alt="scikit-learn logo"  />
   <img width="12" />
+  <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/2b7523c5f8198c98c270c2a7489cbcf67d190cea/SVG/tidyverse.svg" height="40" alt="tidyverse logo" />
   <img width="12" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="scikitlearn logo"  />
+  <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/2b7523c5f8198c98c270c2a7489cbcf67d190cea/SVG/quarto.svg" height="40" alt="quarto logo" />
   <img width="12" />
 </details>
---->
+-->
 
 <div align="left">
 <h3 align="left">Connect with me</h3>
