@@ -24,8 +24,6 @@ Currently, I'm learning how to extract important linguistic features from text d
 <br>
 
 - **<u>NATURAL LANGUAGE PROCESSING</u>**
-  - **Regular Expression for Rule-Based Content Moderation** 
-    - This project addresses taboo expressions in computer-mediated communications by detecting and censoring specific elements of messages (e.g., *"Shit, I forgot!"* $\rightarrow$ *"\*\*\*\*, I forgot!"*). A rule-based approach using regular expressions was chosen over machine learning for its efficient implementation, high explainability to stakeholders, and reliable detection of inappropriate content through rule matching. ([Read More](https://github.com/LingAdeu/regex-for-content-moderation.git))
   - **Using Personal Names to Predict Gender: A 3-Character N-Gram Approach**
     - This project investigated whether conventional machine learning algorithms with character n-grams could outperform Long Short-Term Memory (LSTM) models, which achieved an F1 score of 0.93 ([Septiandri, 2017](https://doi.org/10.48550/arXiv.1707.07129)). Using 3-character n-grams focusing on word boundaries to capture spacing between name parts, the Support Vector Machine with a linear kernel performed best, achieving an F1 score of 0.94. The results suggest that conventional models can match or exceed LSTM performance when using word-boundary 3-character n-grams. ([Read More](https://github.com/LingAdeu/predicting-gender-based-on-name))
   - **Understanding User Perceptions about Products on Tokopedia**
