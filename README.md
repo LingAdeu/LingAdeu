@@ -54,6 +54,8 @@ Currently, I'm learning how to extract important linguistic features from text d
   <img width="12" /> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" height="40" alt="postgresql logo"/>
   <img width="12" /> 
+  <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" height="40" alt="docker logo" />
+  <img width="12" />
 </div>
 
 <!--
