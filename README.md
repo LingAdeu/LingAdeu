@@ -1,4 +1,4 @@
-![Header](NewHeader.png)
+![Header](header.png)
 
 ## About
 Hi, I am a junior linguist with a current interest in computational stylometry, especially authorship attribution. As this area of interest requires a deep understanding of linguistics, statistics, and computational methods, I'm using data science and machine learning to explore my area of interest. 
