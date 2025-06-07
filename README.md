@@ -58,6 +58,8 @@ Currently, I'm learning how to extract important linguistic features from text d
   <img width="12" /> 
   <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" height="40" alt="docker logo" />
   <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" height="40" alt="docker logo" />
+  <img width="12" />
 </div>
 
 <!--
