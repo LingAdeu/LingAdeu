@@ -38,7 +38,7 @@ Currently, I'm learning how to extract important linguistic features from text d
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <!---
   <img src="https://icon.icepanel.io/Technology/png-shadow-512/Jupyter.png" height="40" alt="jupyter logo"  />
@@ -56,10 +56,12 @@ Currently, I'm learning how to extract important linguistic features from text d
   <img width="12" /> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" height="40" alt="postgresql logo"/>
   <img width="12" /> 
-  <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" height="40" alt="docker logo" />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" height="40" alt="docker logo" />
-  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb logo" />
+  <img width="20" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" height="50" alt="docker logo" />
+  <img width="20" />
+  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" height="50" alt="huggingface logo" />
+  <img width="20" />
 </div>
 
 <!--
