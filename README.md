@@ -1,10 +1,9 @@
 ![Header](header.png)
 
 ## About
-Hi, I am a junior linguist with a current interest in computational stylometry, especially authorship attribution. As this area of interest requires a deep understanding of linguistics, statistics, and computational methods, I'm using data science and machine learning to explore my area of interest. 
+A junior linguist with a current interest in computational stylometry, especially authorship attribution. As this area of interest requires a deep understanding of linguistics, statistics, and computational methods, I'm using data science and machine learning (ML) to explore my area of interest. 
 
-Currently, I'm learning how to extract important linguistic features from text data and how to experiment machine learning models for text classification. I am also exploring how to apply computational approaches (distance-based and ML-based) to authorship attribution. In addition to these two, I am working on some data science projects in business context to get myself familiar with numbers.
-
+Currently, I'm learning how to extract important linguistic features from text data and how to experiment machine learning models for text classification. I am also exploring how to apply computational approaches (distance-based and ML-based) to authorship attribution. In addition to these two, I am working on some ML projects in business context to get myself familiar with numbers.
 
 <details>
 <summary style='color:grey'>Key Projects</summary>
@@ -18,7 +17,7 @@ Currently, I'm learning how to extract important linguistic features from text d
     - Ground-level ozone ($O_3$) in Jakarta is a significant air pollutant, often exceeding safe levels and posing serious health risks like asthma and bronchitis, especially as it reaches 'critical status' nearly twice as often as other pollutants. This project aimed to build a time series model to forecast ozone levels for the next year, helping policymakers understand long-term trends and take timely action. I developed and compared four models, namely ARIMA, AutoARIMA, Prophet, and LSTM, using historical pollutant data from 2010 to 2022. The models were evaluated based on RMSE and their ability to capture long-term trends, with Prophet achieving the best accuracy (RMSE of 13.05 ppm), outperforming the more complex LSTM model. With better forecasts, the Environmental Management Agency can issue early warnings, implement traffic restrictions, and adjust emissions regulations to mitigate health risks. ([Read More](https://github.com/LingAdeu/forecasting-ozone-in-jakarta))
 <br>
 
-- **<u>DATA ANALYSIS</u>**
+- **<u>QUANTITATIVE DATA ANALYSIS</u>**
   - **Evaluating Marketing Campaign Effectiveness for New Menu Items: An A/B Testing Approach** 
     - This project assesses which promotional campaign best boosts sales for a fast-food company's new menu items. Statistical analysis, including the Kruskal-Wallis $H$ test and Dunn's post-hoc test, was used due to non-normal sales distributions and outliers. Results showed the first campaign achieved the highest median sales, but the practical difference ($\eta^2$) between campaigns were minor. It is recommended that the Marketing Manager re-evaluate marketing strategies and target customers to improve campaign impact. ([Read More](https://github.com/LingAdeu/ab-testing-campaign-effectiveness.git))
   - **Improving the Number of Review: Exploring Review Patterns in Bangkok's Airbnb Landscape** 
