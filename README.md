@@ -1,9 +1,9 @@
 ![Header](header.png)
 
 ## About
-A junior linguist with a current interest in computational stylometry, especially authorship attribution. As this area of interest requires a deep understanding of linguistics, statistics, and computational methods, I'm using data science and machine learning (ML) to explore my area of interest. 
+A linguist with a current interest in computational stylometry, especially authorship attribution. As this area of interest requires a deep understanding of linguistics, statistics, and computational methods, I'm using data science and machine learning (ML) to explore my area of interest. 
 
-Currently, I'm learning how to extract important linguistic features from text data and how to experiment machine learning models for text classification. I am also exploring how to apply computational approaches (distance-based and ML-based) to authorship attribution. In addition to these two, I am working on some ML projects in business context to get myself familiar with numbers.
+Currently, I'm learning how to extract important linguistic features from text data and how to experiment machine learning models for text classification. I am also exploring how to apply computational approaches (distance-based and ML-based) to authorship attribution. In addition to these two, I am working on some ML projects in business context to get myself familiar with numbers. Still full of errors but I'm trying...
 
 <details>
 <summary style='color:grey'>Key Projects</summary>
