@@ -53,6 +53,8 @@ Currently, I'm learning how to extract important linguistic features from text d
   <img width="12" />
   <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" height="50" alt="huggingface logo" />
   <img width="20" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LaTeX-Light.svg" height="50" alt="latex logo" />
+  <img width="20" />
 </div>
 
 <!--
