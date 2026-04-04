@@ -55,8 +55,10 @@ Currently, I'm learning how to extract important linguistic features from text d
   <img width="20" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LaTeX-Light.svg" height="50" alt="latex logo" />
   <img width="20" />
-  <img src="https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/blob/master/Papirus/64x64/apps/zotero.svg" height="50" alt="zotero logo" />
+  <img src="https://github.com/usebruno/bruno/blob/main/assets/images/logo-transparent.png" height="50" alt="bruno logo" />
   <img width="20" />
+<!-- <img src="https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/blob/master/Papirus/64x64/apps/zotero.svg" height="50" alt="zotero logo" />
+  <img width="20" /> -->
 </div>
 
 <!--
